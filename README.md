@@ -1,1 +1,1 @@
-# CS231n-DeepLearning
+# CS231n: Convolutional Neural Networks for Visual Recognition
